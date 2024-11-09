@@ -138,7 +138,7 @@ void printMostPopularCategory(map<string, User> aMap) {
 
 int main()
 {
-    int numUsers = 10;
+    int numUsers = 5;
     vector<User> users = generateUsers(numUsers);
 
 
